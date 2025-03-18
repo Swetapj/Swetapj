@@ -5,12 +5,8 @@
 <img align="right" alt="Coding" width="400" src="https://www.truesenseamc.com/assets/img/data.gif")
 ")
 
-
-
 - ⚙️🧪 I’m currently learning **SQL, Power BI, Excel and Machine Learning**
-
 - 📍 How to reach me **swetapernajena@gmail.com**
-
 - ⚡ Fun fact **Starting with Ohms law and entering the automotive field, now switching to data**
 
 <h3 align="left">Connect with me:</h3>
