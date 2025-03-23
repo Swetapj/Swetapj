@@ -14,6 +14,8 @@
 <p align="left">
     <a href="https://www.linkedin.com/in/swetaparna-jena0904/" target="blank">
         <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />  <a href="https://www.twitter.com/SwetaparnaJena" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="30" /></a> <a href="https://instagram.com/sophy_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saswat-samal-1b586018a" height="30" width="40" /></a>
+
+        
 ## 🚀 Technologies & Tools  
 
 ### 💻 Programming & Scripting  
