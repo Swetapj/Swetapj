@@ -13,27 +13,21 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/swetaparna-jena0904/" target="blank">
-        <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />
-   </p>
-
-
+        <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />  <a href="https://www.twitter.com/SwetaparnaJena" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="30" /></a> <a href="https://instagram.com/sophy_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saswat-samal-1b586018a" height="30" width="40" /></a>
 ## 🚀 Technologies & Tools  
 
 ### 💻 Programming & Scripting  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+<img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="50">  , <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="50">
 
 ### 📊 Data & Visualization  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+ <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Microsoft Excel" width="40" height="40"/>,   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
 
 ### 🤖 Machine Learning  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSVoNsdtOMjVK5jERTM7-BuyfYewKC_JgLtw&s" alt="Machine Learning" width="80">
+
 
 ### 🔌 Embedded Systems & Communication  
-![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
-![CAN Protocol](https://img.shields.io/badge/CAN%20Protocol-1E90FF?style=for-the-badge&logo=automobile&logoColor=white)  
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-00979D?style=for-the-badge&logo=arduino&logoColor=white)  ,![CAN Protocol](https://img.shields.io/badge/CAN%20Protocol-1E90FF?style=for-the-badge&logo=automobile&logoColor=white)  
 
 ---
 
